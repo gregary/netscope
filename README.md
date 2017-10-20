@@ -14,6 +14,19 @@ This fork adds analysis capabilities, enabling the computation of network comple
 - :new: [Visualization of ZynqNet CNN](http://dgschwend.github.io/netscope/#/preset/zynqnet)
 - [Visualization of the Deep Convolutional Neural Network "SqueezeNet"](http://dgschwend.github.io/netscope/#/preset/squeezenet)
 
+### Installation
+
+- install npm
+- install http-server
+npm install http-server -g
+
+- start server 
+cd netscope
+npm install http-server
+
+- open in the browser
+ http://127.0.0.1/3000
+
 ### License
 
 Released under the MIT license.
