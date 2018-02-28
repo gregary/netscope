@@ -22,6 +22,7 @@ This fork adds analysis capabilities, enabling the computation of network comple
 
 #### start server 
  $ cd netscope
+ 
  $ http-server -p 3000
 
 #### open in the browser
