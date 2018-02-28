@@ -16,16 +16,16 @@ This fork adds analysis capabilities, enabling the computation of network comple
 
 ### Installation
 
-- install npm
-- install http-server
+#### install npm
+#### install http-server
 npm install http-server -g
 
-- start server 
+#### start server 
 cd netscope
-npm install http-server
+http-server -p 3000
 
-- open in the browser
- http://127.0.0.1/3000
+#### open in the browser
+ http://127.0.0.1:3000
 
 ### License
 
