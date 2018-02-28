@@ -18,11 +18,11 @@ This fork adds analysis capabilities, enabling the computation of network comple
 
 #### install npm
 #### install http-server
-npm install http-server -g
+ $ npm install http-server -g
 
 #### start server 
-cd netscope
-http-server -p 3000
+ $ cd netscope
+ $ http-server -p 3000
 
 #### open in the browser
  http://127.0.0.1:3000
