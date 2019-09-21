@@ -20,7 +20,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install http-server -g
-        cd netscope
+        cd ${GITHUB_WORKSPACE} & ls
         http-server -p 3000
       env:
         CI: true
