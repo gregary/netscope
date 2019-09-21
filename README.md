@@ -15,7 +15,7 @@ This fork adds analysis capabilities, enabling the computation of network comple
 - [Visualization of the Deep Convolutional Neural Network "SqueezeNet"](http://dgschwend.github.io/netscope/#/preset/squeezenet)
 
 ### Installation
-https://github.com/gregary/netscope/workflows/nodejs/badge.svg
+https://github.com/gregary/netscope/workflows/NodeCI/badge.svg
 
 
 
